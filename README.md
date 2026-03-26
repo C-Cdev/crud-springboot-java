@@ -1,7 +1,7 @@
 # 📋 CRUD de Usuários com Spring Boot
 
 API REST completa para gerenciamento de usuários, desenvolvida com Java e Spring Boot.
-Essa foi a minha primeira aplicação de fato com Java, um primeiro projeto com framework, fiz esssa criação de uma API Rest com Spring Boot.
+Essa foi a minha primeira aplicação de fato com Java, um primeiro projeto com framework, fiz esssa criação de uma API Rest com Spring Boot. Tenho consciência de que a estrutura dela como um repositório de github é bem básica, mas a intenção é essa, aproveitem.
 
 ## 🚀 Tecnologias
 
